@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ComputerLIUDONGHUA>
+<Device name="CPU core">
+<DeviceInfo checked="1">CPU# 0:  36.0 ℃</DeviceInfo>
+<DeviceInfo checked="1">CPU# 1:  33.0 ℃</DeviceInfo>
+</Device>
+<Device name="HardDisk">
+<DeviceInfo checked="1">HardDiskWD-WCAYUFX31742Temp: 47℃</DeviceInfo>
+<DeviceInfo checked="0">HardDiskWD-WCAYUFX31742Temp: 47℃</DeviceInfo>
+</Device>
+<Device name="LPCIO :ITE IT8720F">
+<DeviceInfo checked="1">FanSpeed#1: 1352.7 RPM</DeviceInfo>
+<DeviceInfo checked="1">FanSpeed#2: 2142.9 RPM</DeviceInfo>
+</Device>
+</ComputerLIUDONGHUA>

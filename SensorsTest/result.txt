@@ -1,0 +1,5 @@
+1
+本地信息
+CPU# 0:  39.0 ℃
+CPU# 1:  39.0 ℃
+HardDiskWD-WXE509V73120Temp: 41℃

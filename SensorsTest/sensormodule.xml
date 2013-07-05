@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ComputerZHAOJIANPING-02>
+<Device name="CPU core">
+<DeviceInfo checked="1">CPU# 0:  39.0 ℃</DeviceInfo>
+<DeviceInfo checked="1">CPU# 1:  39.0 ℃</DeviceInfo>
+</Device>
+<Device name="HardDisk">
+<DeviceInfo checked="1">HardDiskWD-WCAV2E543519Temp: 43℃</DeviceInfo>
+<DeviceInfo checked="1">HardDiskVDS91DTC1S6LKZTemp: 44℃</DeviceInfo>
+</Device>
+<Device name="LPCIO :Winbond W83627DHG-P">
+<DeviceInfo checked="1">Tempreture#1: 107.0 ℃</DeviceInfo>
+<DeviceInfo checked="1">FanSpeed#1: 1259.3 RPM</DeviceInfo>
+</Device>
+</ComputerZHAOJIANPING-02>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ComputerPC>
+<Device name="CPU core">
+<DeviceInfo checked="1">CPU# 0:  39.0 ℃</DeviceInfo>
+<DeviceInfo checked="1">CPU# 1:  39.0 ℃</DeviceInfo>
+</Device>
+<Device name="HardDisk">
+<DeviceInfo checked="1">HardDiskWD-WXE509V73120Temp: 41℃</DeviceInfo>
+</Device>
+</ComputerPC>

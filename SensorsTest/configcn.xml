@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Setting>
+<AutoSave>1</AutoSave>
+<SaveFile>sensor.xml</SaveFile>
+<AutoCompare>0</AutoCompare>
+<ModuleFile>sensormodule.xml</ModuleFile>
+<Device DeviceName="传感器">1</Device>
+<Device DeviceName="温度范围">5-64</Device>
+<Device DeviceName="风扇转速范围1">100-4000</Device>
+<Device DeviceName="风扇转速范围2">200-3800</Device>
+<Device DeviceName="风扇转速范围3">100-4000</Device>
+</Setting>
